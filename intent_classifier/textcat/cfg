@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "SET_REMINDER",
+    "SCHEDULE_MEETING"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
